@@ -3,7 +3,6 @@ public class Meth {
         System.out.println("Hi there ");
         System.out.println("=-=-=-=-=-=-=-=-=-=-=-=");
         System.out.println(1+8);
-        System.out.println("kdjfnksdjnf");
 
     }
 }
